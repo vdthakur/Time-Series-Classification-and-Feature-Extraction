@@ -19,7 +19,7 @@ This repository contains a detailed analysis and implementation of feature extra
 
 ## Introduction
 
-This project explores **time series classification**, a common machine learning task. The goal is to classify human activities based on time-domain features extracted from multivariate time series data. The project includes binary classification, feature engineering, and multiclass classification using logistic regression, penalized regression, and Naïve Bayes classifiers.
+This project explores **time series classification**, a common machine learning task. The goal is to classify human activities based on time-domain features extracted from multivariate time series data. The project includes binary classification, feature engineering, and multiclass classification using logistic regression, penalized regression, and Naïve Bayes classifiers. This project was done as part of an assignment for my graduate Machine Learning course
 
 ---
 
