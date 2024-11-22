@@ -52,9 +52,6 @@ The **Activity Recognition System based on Multisensor Data Fusion (AReM)** data
      - Minimum, Maximum, Mean, Median, Standard Deviation, Quartiles, etc.
    - Extract the following features for all six time series:
      - Minimum, Maximum, Mean, Median, Standard Deviation, First Quartile, Third Quartile.
-   - Resulting Dataset:
-     | Instance | min1 | max1 | mean1 | median1 | ... | 1st_quart6 | 3rd_quart6 |
-     |----------|------|------|-------|---------|-----|------------|------------|
 
 3. **Bootstrap Confidence Intervals**:
    - Compute the standard deviation of each feature.
