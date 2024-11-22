@@ -27,8 +27,6 @@ This project explores **time series classification**, a common machine learning 
 
 The **Activity Recognition System based on Multisensor Data Fusion (AReM)** dataset is publicly available at the UCI Machine Learning Repository:
 
-[AReM Dataset](https://archive.ics.uci.edu/ml/datasets/Activity+Recognition+system+based+on+Multisensor+data+fusion+%28AReM%29)
-
 ### Dataset Structure:
 - **Folders**: 7 folders represent seven activities:
   - Bending1, Bending2, Cycling, Lying, Sitting, Standing, Walking.
